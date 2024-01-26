@@ -188,7 +188,7 @@
               6,
               "капучино"
             ],
-            "stock_quantity": 77
+            "stock_quantity": 69
           },
           {
             "url": "https://vetromebel.com/product/obedennyy-stol-t-600-kremovyy",
@@ -271,7 +271,7 @@
               "боковий",
               "прямокутні"
             ],
-            "stock_quantity": 11,
+            "stock_quantity": 10,
             "listPrice": 10706.2
           },
           {
@@ -374,7 +374,7 @@
               5,
               "бежевий"
             ],
-            "stock_quantity": 0,
+            "stock_quantity": 2,
             "listPrice": 2587
           },
           {
@@ -407,7 +407,7 @@
               "прямокутні",
               110
             ],
-            "stock_quantity": 132
+            "stock_quantity": 129
           },
           {
             "url": "https://vetromebel.com/product/obedennyy-stol-t-300-11-poloska",
@@ -472,7 +472,7 @@
               "прямокутні",
               110
             ],
-            "stock_quantity": 154
+            "stock_quantity": 152
           },
           {
             "url": "https://vetromebel.com/product/obidniy-stil-t-300-2-kava-mokko",
@@ -509,7 +509,7 @@
               "прямокутні",
               100
             ],
-            "stock_quantity": 30
+            "stock_quantity": 29
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-36-indigo-chorniy",
@@ -551,78 +551,6 @@
             "stock_quantity": 1
           },
           {
-            "url": "https://vetromebel.com/product/stilec-povorotniy-m-34-grafit-chorniy",
-            "price": 4179,
-            "vendor": "Vetro",
-            "vendorCode": "M-34-graphite",
-            "currencyId": "UAH",
-            "manufacturer_warranty": 12,
-            "categoryId": 103,
-            "picture": [
-              "https://vetromebel.com/storage/4037/AAA_8096.jpg",
-              "https://vetromebel.com/storage/4038/AAA_8097.jpg",
-              "https://vetromebel.com/storage/4039/AAA_8098.jpg",
-              "https://vetromebel.com/storage/4040/AAA_8099.jpg",
-              "https://vetromebel.com/storage/4041/AAA_8100.jpg",
-              "https://vetromebel.com/storage/4042/AAA_8101.jpg",
-              "https://vetromebel.com/storage/4043/AAA_8102.jpg",
-              "https://vetromebel.com/storage/4044/AAA_8103.jpg",
-              "https://vetromebel.com/storage/4045/AAA_8105.jpg",
-              "https://vetromebel.com/storage/4046/AAA_8104.jpg"
-            ],
-            "name": "Стілець поворотний M-34 графіт + чорний",
-            "description": "Стілець поворотний M-34 графіт + чорний",
-            "brand": "Vetro Mebel",
-            "param": [
-              "Стільці",
-              60,
-              50,
-              59,
-              90,
-              "Vetro Mebel",
-              "потребує складання",
-              "шкірзамінник, штучний нубук",
-              "фарбований метал",
-              46,
-              11,
-              "графіт",
-              "поворотні,з підлокітниками"
-            ],
-            "stock_quantity": 0
-          },
-          {
-            "url": "https://vetromebel.com/product/stol-mdf-tm-30-chernyy",
-            "price": 4338.2,
-            "vendor": "Vetro",
-            "vendorCode": "TM-30-black",
-            "currencyId": "UAH",
-            "manufacturer_warranty": 12,
-            "categoryId": 101,
-            "picture": [
-              "https://vetromebel.com/storage/6520/TM-30_chernyy_(2).jpg",
-              "https://vetromebel.com/storage/6521/TM-30_chernyy_(3).jpg",
-              "https://vetromebel.com/storage/6522/TM-30_chernyy_(1).jpg"
-            ],
-            "name": "Стіл МДФ TM-30 чорний",
-            "description": "Стіл МДФ TM-30 чорний",
-            "brand": "Vetro Mebel",
-            "param": [
-              "Столи обідні",
-              80,
-              76,
-              "Vetro Mebel",
-              "потребує складання",
-              "ламіноване МДФ",
-              "дерево бук",
-              11,
-              "чорний",
-              "нерозкладні",
-              "квадратні",
-              80
-            ],
-            "stock_quantity": 0
-          },
-          {
             "url": "https://vetromebel.com/product/stilec-n-66-2-chorniy",
             "price": 1393,
             "vendor": "Vetro",
@@ -658,7 +586,7 @@
               6,
               "чорний"
             ],
-            "stock_quantity": 89
+            "stock_quantity": 297
           },
           {
             "url": "https://vetromebel.com/product/stol-mdfmatovoe-steklo-tmm-53-2-belyy",
@@ -764,7 +692,7 @@
               5,
               "білий"
             ],
-            "stock_quantity": 3
+            "stock_quantity": 0
           },
           {
             "url": "https://vetromebel.com/product/obedennyy-stol-t-231-kofe-mokko",
@@ -830,7 +758,7 @@
               "прямокутні",
               110
             ],
-            "stock_quantity": 157
+            "stock_quantity": 155
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-12-2-smaragdoviy-zoloto",
@@ -992,7 +920,7 @@
               "прямокутні",
               79
             ],
-            "stock_quantity": 22
+            "stock_quantity": 20
           },
           {
             "url": "https://vetromebel.com/product/kreslo-adel-seryy-rozovyy",
@@ -1169,7 +1097,7 @@
               7,
               "капучино-латте"
             ],
-            "stock_quantity": 10,
+            "stock_quantity": 12,
             "listPrice": 2985
           },
           {
@@ -1321,7 +1249,7 @@
               "боковий",
               "прямокутні"
             ],
-            "stock_quantity": 1
+            "stock_quantity": 2
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-05-tiffani-buk",
@@ -1509,7 +1437,7 @@
               6,
               "смарагдовий"
             ],
-            "stock_quantity": 68
+            "stock_quantity": 60
           },
           {
             "url": "https://vetromebel.com/product/obidniy-stil-t-300-11-chorniy",
@@ -1541,7 +1469,7 @@
               "прямокутні",
               110
             ],
-            "stock_quantity": 29
+            "stock_quantity": 27
           },
           {
             "url": "https://vetromebel.com/product/konsol-bruno-belyy-mramor-chernyy",
@@ -1645,7 +1573,7 @@
               7,
               "смарагдовий"
             ],
-            "stock_quantity": 77
+            "stock_quantity": 76
           },
           {
             "url": "https://vetromebel.com/product/keramicheskiy-stol-tml-860-1-belyy-mramor",
@@ -1687,7 +1615,7 @@
               "прямокутні",
               "матове МДФ"
             ],
-            "stock_quantity": 3
+            "stock_quantity": 32
           },
           {
             "url": "https://vetromebel.com/product/keramicheskiy-stol-tml-860-1-chernyy-oniks",
@@ -1726,7 +1654,7 @@
               "прямокутні",
               "матове МДФ"
             ],
-            "stock_quantity": 0
+            "stock_quantity": 17
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-32-3-smaragdoviy-zoloto",
@@ -1842,7 +1770,7 @@
               "м'ятний",
               "поворотні"
             ],
-            "stock_quantity": 58
+            "stock_quantity": 57
           },
           {
             "url": "https://vetromebel.com/product/napivbarniy-stilec-b-125-chorniy-chorniy",
@@ -1880,7 +1808,7 @@
               7,
               "чорний"
             ],
-            "stock_quantity": 15
+            "stock_quantity": 14
           },
           {
             "url": "https://vetromebel.com/product/napivbarniy-stilec-b-125-siriy-chorniy",
@@ -1918,7 +1846,7 @@
               7,
               "сірий"
             ],
-            "stock_quantity": 37
+            "stock_quantity": 34
           },
           {
             "url": "https://vetromebel.com/product/obedennyy-stol-t-318-mramorbelyy",
@@ -1989,7 +1917,7 @@
               "неро маркіна",
               "квадратні"
             ],
-            "stock_quantity": 11
+            "stock_quantity": 10
           },
           {
             "url": "https://vetromebel.com/product/stol-mdfmatovoe-steklo-tm-175-belyy",
@@ -2026,7 +1954,7 @@
               "круглі",
               "матове МДФ"
             ],
-            "stock_quantity": 1
+            "stock_quantity": 0
           },
           {
             "url": "https://vetromebel.com/product/zhurnalnyy-stol-cb-1-prozrachnyy-serebro",
@@ -2060,7 +1988,7 @@
               "прозорий",
               "круглі"
             ],
-            "stock_quantity": 13
+            "stock_quantity": 12
           },
           {
             "url": "https://vetromebel.com/product/napivbarniy-stilec-b-22-kapuchino-chorniy",
@@ -2133,7 +2061,7 @@
               9,
               "мідний"
             ],
-            "stock_quantity": 29
+            "stock_quantity": 27
           },
           {
             "url": "https://vetromebel.com/product/stol-mdf-matovoe-steklo-tml-560-1-kapuchino",
@@ -2217,7 +2145,7 @@
               "прямокутні",
               "матове гартоване скло, МДФ"
             ],
-            "stock_quantity": 0
+            "stock_quantity": 7
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-62-smaragdoviy-chorniy",
@@ -2298,7 +2226,7 @@
               "масив дерева",
               "пінополіуретан (ППУ)"
             ],
-            "stock_quantity": 5
+            "stock_quantity": 6
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-10-girchichniy-chorniy",
@@ -2486,7 +2414,7 @@
               "чорний",
               "круглі"
             ],
-            "stock_quantity": 11
+            "stock_quantity": 9
           },
           {
             "url": "https://vetromebel.com/product/zhurnalniy-stil-cj-1-biliy-marmur-zoloto",
@@ -2520,7 +2448,7 @@
               "білий мармур",
               "круглі"
             ],
-            "stock_quantity": 20
+            "stock_quantity": 19
           },
           {
             "url": "https://vetromebel.com/product/zhurnalnyy-stol-cl-1-prozrachnyyzoloto",
@@ -2555,7 +2483,7 @@
               "прямокутні",
               120
             ],
-            "stock_quantity": 24
+            "stock_quantity": 23
           },
           {
             "url": "https://vetromebel.com/product/zhurnalnyy-stol-cf-2-prozrachnyyserebro",
@@ -2593,7 +2521,7 @@
               "квадратні",
               55
             ],
-            "stock_quantity": 27
+            "stock_quantity": 26
           },
           {
             "url": "https://vetromebel.com/product/kofeynyy-stol-cl-2-prozrachnyyzoloto",
@@ -2709,7 +2637,7 @@
               6,
               "чорний"
             ],
-            "stock_quantity": 0
+            "stock_quantity": 97
           },
           {
             "url": "https://vetromebel.com/product/stol-barnyy-bt-01-beton",
@@ -2817,7 +2745,7 @@
               "чорнильно-синій",
               "з підлокітниками"
             ],
-            "stock_quantity": 45
+            "stock_quantity": 43
           },
           {
             "url": "https://vetromebel.com/product/stol-mdf-matovoe-steklo-tml-765-1-kapuchino",
@@ -2900,7 +2828,7 @@
               86,
               "з підлокітниками"
             ],
-            "stock_quantity": 108
+            "stock_quantity": 104
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-65-kapuchino-chorniy",
@@ -2940,7 +2868,7 @@
               "капучино",
               "з підлокітниками"
             ],
-            "stock_quantity": 214
+            "stock_quantity": 212
           },
           {
             "url": "https://vetromebel.com/product/stilec-p-01-burgundi-buk",
@@ -3124,7 +3052,7 @@
               13,
               "мідний"
             ],
-            "stock_quantity": 16
+            "stock_quantity": 1
           },
           {
             "url": "https://vetromebel.com/product/napivbarniy-stilec-b-16-bezheviy-antik-chorniy",
@@ -3201,7 +3129,7 @@
               "бежевий антік",
               "поворотні, регулюються по висоті"
             ],
-            "stock_quantity": 42
+            "stock_quantity": 41
           },
           {
             "url": "https://vetromebel.com/product/barniy-stilec-v-102-brendi-chorniy",
@@ -3238,7 +3166,7 @@
               "бренді",
               "поворотні, регулюються по висоті"
             ],
-            "stock_quantity": 23
+            "stock_quantity": 21
           },
           {
             "url": "https://vetromebel.com/product/barniy-stilec-b-106-tabako-chorniy-ru",
@@ -3312,7 +3240,7 @@
               "попільний антік",
               "поворотні, регулюються по висоті"
             ],
-            "stock_quantity": 11
+            "stock_quantity": 1
           },
           {
             "url": "https://vetromebel.com/product/stilec-s-118-korichneviy",
@@ -3351,7 +3279,7 @@
               6,
               "коричневий"
             ],
-            "stock_quantity": 1
+            "stock_quantity": 2
           },
           {
             "url": "https://vetromebel.com/product/stol-mdfmatovoe-steklo-tml-561-belyy",
@@ -3393,7 +3321,7 @@
               "прямокутні",
               "матове гартоване скло, МДФ"
             ],
-            "stock_quantity": 0
+            "stock_quantity": 6
           },
           {
             "url": "https://vetromebel.com/product/sofa-raskladnaya-oliviya-roza-antik",
@@ -3520,7 +3448,7 @@
               "круглі",
               "матове МДФ"
             ],
-            "stock_quantity": 20,
+            "stock_quantity": 21,
             "listPrice": 20258.2
           },
           {
@@ -3717,7 +3645,7 @@
               8,
               "смарагдовий"
             ],
-            "stock_quantity": 9
+            "stock_quantity": 6
           },
           {
             "url": "https://vetromebel.com/product/napivbarniy-stilec-b-126-siriy-chorniy",
@@ -3838,7 +3766,7 @@
               "прямокутні",
               "матова італійська кераміка, гартоване скло"
             ],
-            "stock_quantity": 14
+            "stock_quantity": 15
           },
           {
             "url": "https://vetromebel.com/product/keramicheskiy-stol-tml-845-gridzhio-latte",
@@ -3871,7 +3799,7 @@
               76,
               "Vetro Mebel",
               "потребує складання",
-              "матова іспанська кераміка, матове МДФ",
+              "матова іспанська кераміка, матове МДФ, матова кераміка",
               "матове МДФ",
               66,
               "гріджіо латте",
@@ -3880,7 +3808,7 @@
               "прямокутні",
               "матова іспанська кераміка, матове МДФ"
             ],
-            "stock_quantity": 1
+            "stock_quantity": 3
           },
           {
             "url": "https://vetromebel.com/product/puf-alpaka-biliy-zoloto",
@@ -4175,7 +4103,7 @@
               "190*110",
               "прямі"
             ],
-            "stock_quantity": 12
+            "stock_quantity": 11
           },
           {
             "url": "https://vetromebel.com/product/sofa-raskladnaya-morris-cherniy-belyy",
@@ -4520,7 +4448,7 @@
               66,
               "поворотні,з підлокітниками"
             ],
-            "stock_quantity": 53
+            "stock_quantity": 52
           },
           {
             "url": "https://vetromebel.com/product/stilec-povorotniy-r-63-chorniy-chorniy",
@@ -4561,7 +4489,7 @@
               66,
               "поворотні,з підлокітниками"
             ],
-            "stock_quantity": 33
+            "stock_quantity": 27
           },
           {
             "url": "https://vetromebel.com/product/stilec-povorotniy-r-63-siriy-chorniy",
@@ -4602,7 +4530,7 @@
               66,
               "поворотні,з підлокітниками"
             ],
-            "stock_quantity": 52
+            "stock_quantity": 79
           },
           {
             "url": "https://vetromebel.com/product/stilec-povorotniy-r-63-smaragdoviy-chorniy",
@@ -4683,7 +4611,7 @@
               68,
               "з підлокітниками"
             ],
-            "stock_quantity": 175
+            "stock_quantity": 143
           },
           {
             "url": "https://vetromebel.com/product/keramicheskiy-stol-tml-809-ays-grey",
@@ -4724,7 +4652,7 @@
               "боковий",
               "прямокутні"
             ],
-            "stock_quantity": 26
+            "stock_quantity": 25
           },
           {
             "url": "https://vetromebel.com/product/keramicheskiy-stol-tml-866-belyy-mramor",
@@ -4808,7 +4736,7 @@
               "прямокутні",
               "ламіноване МДФ"
             ],
-            "stock_quantity": 13,
+            "stock_quantity": 12,
             "listPrice": 23840.2
           },
           {
@@ -5081,7 +5009,7 @@
               "шоколад",
               "поворотні, регулюються по висоті"
             ],
-            "stock_quantity": 13
+            "stock_quantity": 12
           },
           {
             "url": "https://vetromebel.com/product/barniy-stilec-b-91-siriy",
@@ -5118,7 +5046,7 @@
               "сірий",
               "поворотні,з підлокітниками,регулюються по висоті"
             ],
-            "stock_quantity": 0,
+            "stock_quantity": 2,
             "listPrice": 5134.2
           },
           {
@@ -5194,7 +5122,7 @@
               "лазурний",
               "поворотні,з підлокітниками,регулюються по висоті"
             ],
-            "stock_quantity": 58,
+            "stock_quantity": 54,
             "listPrice": 5134.2
           },
           {
@@ -5232,7 +5160,7 @@
               "чорний",
               "поворотні,з підлокітниками,регулюються по висоті"
             ],
-            "stock_quantity": 23
+            "stock_quantity": 20
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-62-morska-hvilya-chorniy",
@@ -5272,7 +5200,7 @@
               68,
               "з підлокітниками"
             ],
-            "stock_quantity": 75
+            "stock_quantity": 67
           },
           {
             "url": "https://vetromebel.com/product/zhurnalnyy-stol-palermo-chernyy-oniks",
@@ -5574,7 +5502,7 @@
               87,
               68,
               "Vetro Mebel",
-              "потребує складання",
+              "не потребує складання",
               "бавовна",
               "пластик",
               64,
@@ -5650,7 +5578,7 @@
               148,
               68,
               "Vetro Mebel",
-              "потребує складання",
+              "не потребує складання",
               "бавовна",
               "пластик",
               64,
@@ -5727,7 +5655,7 @@
               94,
               68,
               "Vetro Mebel",
-              "потребує складання",
+              "не потребує складання",
               "бавовна",
               "пластик",
               64,
@@ -5764,7 +5692,7 @@
               87,
               68,
               "Vetro Mebel",
-              "потребує складання",
+              "не потребує складання",
               "бавовна",
               "пластик",
               120,
@@ -5898,7 +5826,7 @@
               "круглі",
               "матова кераміка, матове МДФ"
             ],
-            "stock_quantity": 15
+            "stock_quantity": 13
           },
           {
             "url": "https://vetromebel.com/product/stilec-s-121-siriy",
@@ -5937,7 +5865,7 @@
               6,
               "сірий"
             ],
-            "stock_quantity": 87
+            "stock_quantity": 81
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-48-smaragdoviy-chorniy",
@@ -5976,46 +5904,46 @@
               7,
               "смарагдовий"
             ],
-            "stock_quantity": 208
+            "stock_quantity": 202
           },
           {
-            "url": "https://vetromebel.com/product/stilec-s-125-nebesno-siriy",
-            "price": 2985,
+            "url": "https://vetromebel.com/product/stilec-povorotniy-r-68-smaragdoviy-chorniy",
+            "price": 5373,
             "vendor": "Vetro",
-            "vendorCode": "S-125-light-grey-velvet",
+            "vendorCode": "R-68-emerald-velvet",
             "currencyId": "UAH",
             "manufacturer_warranty": 12,
-            "categoryId": 98,
+            "categoryId": 103,
             "picture": [
-              "https://vetromebel.com/storage/8111/Stilec_S-125_nebesno-siriy_velyur_(1).jpg",
-              "https://vetromebel.com/storage/8112/Stilec_S-125_nebesno-siriy_velyur_(2).jpg",
-              "https://vetromebel.com/storage/8113/Stilec_S-125_nebesno-siriy_velyur_(3).jpg",
-              "https://vetromebel.com/storage/8114/Stilec_S-125_nebesno-siriy_velyur_(4).jpg",
-              "https://vetromebel.com/storage/8115/Stilec_S-125_nebesno-siriy_velyur_(5).jpg",
-              "https://vetromebel.com/storage/8116/Stilec_S-125_nebesno-siriy_velyur_(6).jpg",
-              "https://vetromebel.com/storage/8117/Stilec_S-125_nebesno-siriy_velyur_(7).jpg",
-              "https://vetromebel.com/storage/8118/Stilec_S-125_nebesno-siriy_velyur_(8).jpg",
-              "https://vetromebel.com/storage/8119/Stilec_S-125_nebesno-siriy_velyur_(9).jpg",
-              "https://vetromebel.com/storage/8120/Stilec_S-125_nebesno-siriy_velyur_(10).jpg"
+              "https://vetromebel.com/storage/8131/Stilec_R-68_smaragdoviy_velyur_(1)_bbe7-0p.jpg",
+              "https://vetromebel.com/storage/8132/Stilec_R-68_smaragdoviy_velyur_(2)_bd8k-1v.jpg",
+              "https://vetromebel.com/storage/8133/Stilec_R-68_smaragdoviy_velyur_(3).jpg",
+              "https://vetromebel.com/storage/8134/Stilec_R-68_smaragdoviy_velyur_(4).jpg",
+              "https://vetromebel.com/storage/8135/Stilec_R-68_smaragdoviy_velyur_(5).jpg",
+              "https://vetromebel.com/storage/8136/Stilec_R-68_smaragdoviy_velyur_(6).jpg",
+              "https://vetromebel.com/storage/8137/Stilec_R-68_smaragdoviy_velyur_(7).jpg",
+              "https://vetromebel.com/storage/8138/Stilec_R-68_smaragdoviy_velyur_(8).jpg",
+              "https://vetromebel.com/storage/8139/Stilec_R-68_smaragdoviy_velyur_(9).jpg"
             ],
-            "name": "Стілець S-125 небесно-сірий велюр",
-            "description": "Стілець S-125 небесно-сірий велюр",
+            "name": "Стілець поворотний R-68 смарагдовий + чорний",
+            "description": "Стілець поворотний R-68 смарагдовий + чорний",
             "brand": "Vetro Mebel",
             "param": [
               "Стільці",
-              50,
-              47,
-              44,
-              100,
+              55,
+              46,
+              "60,5",
+              84,
               "Vetro Mebel",
               "потребує складання",
               "велюр",
-              "хромована сталь",
-              45,
-              9,
-              "небесно-сірий"
+              "фарбований метал",
+              42,
+              11,
+              "смарагдовий",
+              "поворотні,з підлокітниками"
             ],
-            "stock_quantity": 2
+            "stock_quantity": 0
           },
           {
             "url": "https://vetromebel.com/product/stilec-povorotniy-r-68-siriy-chorniy",
@@ -6253,7 +6181,7 @@
               "світло-сірий",
               "поворотні,з підлокітниками"
             ],
-            "stock_quantity": 28
+            "stock_quantity": 22
           },
           {
             "url": "https://vetromebel.com/product/stilec-povorotniy-r-75-naturalniy-chorniy",
@@ -6371,7 +6299,7 @@
               6,
               "блакитний топаз"
             ],
-            "stock_quantity": 138
+            "stock_quantity": 132
           },
           {
             "url": "https://vetromebel.com/product/stul-m-45-gorchichnyy-chernyy",
@@ -6525,7 +6453,7 @@
               50,
               39
             ],
-            "stock_quantity": 17
+            "stock_quantity": 13
           },
           {
             "url": "https://vetromebel.com/product/ctul-n-41-temno-seryy-chernyy-velyur",
@@ -6601,7 +6529,7 @@
               50,
               39
             ],
-            "stock_quantity": 251
+            "stock_quantity": 247
           },
           {
             "url": "https://vetromebel.com/product/ctilec-n-41-olivka-chorniy",
@@ -6638,7 +6566,7 @@
               50,
               39
             ],
-            "stock_quantity": 112
+            "stock_quantity": 110
           },
           {
             "url": "https://vetromebel.com/product/ctul-n-41-chernyy-chernyy-velyur",
@@ -6672,7 +6600,7 @@
               50,
               39
             ],
-            "stock_quantity": 194
+            "stock_quantity": 150
           },
           {
             "url": "https://vetromebel.com/product/ctilec-n-41-siriy-biliy-rogozhka",
@@ -6743,7 +6671,7 @@
               50,
               39
             ],
-            "stock_quantity": 427
+            "stock_quantity": 423
           },
           {
             "url": "https://vetromebel.com/product/ctilec-n-41-siriy-chorniy-rogozhka",
@@ -6934,7 +6862,7 @@
               "натуральний",
               "з підлокітниками"
             ],
-            "stock_quantity": 11
+            "stock_quantity": 7
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-68-olivkoviy-chorniy",
@@ -7129,7 +7057,7 @@
               5.9,
               "капучино"
             ],
-            "stock_quantity": 2
+            "stock_quantity": 292
           },
           {
             "url": "https://vetromebel.com/product/stilec-s-118-kapuchino",
@@ -7323,7 +7251,7 @@
               6,
               "білий"
             ],
-            "stock_quantity": 10
+            "stock_quantity": 278
           },
           {
             "url": "https://vetromebel.com/product/stilec-s-118-chorniy",
@@ -7361,7 +7289,7 @@
               6,
               "чорний"
             ],
-            "stock_quantity": 84
+            "stock_quantity": 82
           },
           {
             "url": "https://vetromebel.com/product/stilec-s-118-siriy",
@@ -7438,7 +7366,7 @@
               6,
               "смарагдовий"
             ],
-            "stock_quantity": 0
+            "stock_quantity": 84
           },
           {
             "url": "https://vetromebel.com/product/keramicheskiy-stol-tml-875-belyy-mramor",
@@ -7480,7 +7408,7 @@
               "круглі",
               "матове МДФ"
             ],
-            "stock_quantity": 0
+            "stock_quantity": 18
           },
           {
             "url": "https://vetromebel.com/product/stilec-n-45-kapuchino-velyur",
@@ -7602,7 +7530,7 @@
               "прямокутні",
               "матове МДФ"
             ],
-            "stock_quantity": 0
+            "stock_quantity": 16
           },
           {
             "url": "https://vetromebel.com/product/stilec-povorotniy-r-63-girchichniy-chorniy",
@@ -7643,7 +7571,7 @@
               66,
               "поворотні,з підлокітниками"
             ],
-            "stock_quantity": 56
+            "stock_quantity": 53
           },
           {
             "url": "https://vetromebel.com/product/napivbarniy-stilec-b-140-1-kapuchino-antracit",
@@ -7722,7 +7650,7 @@
               6,
               "смарагдовий"
             ],
-            "stock_quantity": 30
+            "stock_quantity": 27
           },
           {
             "url": "https://vetromebel.com/product/stilec-n-46-siriy-chorniy",
@@ -7803,7 +7731,7 @@
               "прямокутні",
               "матова кераміка, матове МДФ"
             ],
-            "stock_quantity": 58
+            "stock_quantity": 81
           },
           {
             "url": "https://vetromebel.com/product/stilec-n-46-kapuchino-chorniy",
@@ -7881,7 +7809,7 @@
               6,
               "коричневий"
             ],
-            "stock_quantity": 3
+            "stock_quantity": 0
           },
           {
             "url": "https://vetromebel.com/product/stilec-n-46-chornilno-siniy-chorniy",
@@ -8002,7 +7930,7 @@
               "прямокутні",
               "матова кераміка, матове МДФ"
             ],
-            "stock_quantity": 0
+            "stock_quantity": 69
           },
           {
             "url": "https://vetromebel.com/product/keramicheskiy-stol-tml-817-chernyy-oniks",
@@ -8085,7 +8013,7 @@
               "овальні",
               "матова кераміка, матове МДФ"
             ],
-            "stock_quantity": 28
+            "stock_quantity": 27
           },
           {
             "url": "https://vetromebel.com/product/stol-mdfkeramika-tm-76-chernyy-oniks",
@@ -8127,7 +8055,7 @@
               "прямокутні",
               "матова кераміка, матове МДФ"
             ],
-            "stock_quantity": 21
+            "stock_quantity": 122
           },
           {
             "url": "https://vetromebel.com/product/stil-mdf-keramika-tm-76-kalakatta-marmur-chorniy",
@@ -8169,7 +8097,7 @@
               "прямокутні",
               "глянцева кераміка, матове МДФ"
             ],
-            "stock_quantity": 20
+            "stock_quantity": 16
           },
           {
             "url": "https://vetromebel.com/product/keramichniy-stil-tm-76-vayt-klaud-biliy",
@@ -8330,7 +8258,7 @@
               "боковий",
               "прямокутні"
             ],
-            "stock_quantity": 22
+            "stock_quantity": 20
           },
           {
             "url": "https://vetromebel.com/product/keramicheskiy-stol-tm-88-1-rebekka-grey-chernyy",
@@ -8444,7 +8372,7 @@
               "боковий",
               "прямокутні"
             ],
-            "stock_quantity": 25
+            "stock_quantity": 22
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-05-biliy-buk",
@@ -8477,7 +8405,7 @@
               4,
               "білий"
             ],
-            "stock_quantity": 142
+            "stock_quantity": 138
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-05-chorniy-buk",
@@ -8586,7 +8514,7 @@
               6,
               "чорний"
             ],
-            "stock_quantity": 82
+            "stock_quantity": 80
           },
           {
             "url": "https://vetromebel.com/product/stul-s-110-belyy",
@@ -8621,7 +8549,7 @@
               5,
               "білий"
             ],
-            "stock_quantity": 113
+            "stock_quantity": 111
           },
           {
             "url": "https://vetromebel.com/product/obidniy-stil-t-315-prozoriy-sriblo",
@@ -8696,7 +8624,7 @@
               6,
               "білий"
             ],
-            "stock_quantity": 112
+            "stock_quantity": 106
           },
           {
             "url": "https://vetromebel.com/product/konsol-cd-3-prozrachnyy-serebro",
@@ -8732,7 +8660,7 @@
               "прозорий",
               "прямокутні"
             ],
-            "stock_quantity": 22
+            "stock_quantity": 21
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-05-siriy-buk",
@@ -8880,7 +8808,7 @@
               6,
               "сірий"
             ],
-            "stock_quantity": 179
+            "stock_quantity": 163
           },
           {
             "url": "https://vetromebel.com/product/stilec-n-66-2-siriy-velyur",
@@ -8958,7 +8886,7 @@
               6,
               "капучино"
             ],
-            "stock_quantity": 1
+            "stock_quantity": 776
           },
           {
             "url": "https://vetromebel.com/product/zhurnalnyy-stol-cd-2-prozrachnyy-serebro",
@@ -8996,7 +8924,7 @@
               "квадратні",
               55
             ],
-            "stock_quantity": 37
+            "stock_quantity": 36
           },
           {
             "url": "https://vetromebel.com/product/keramicheskiy-stol-tml-870-belyy-mramor",
@@ -9038,7 +8966,7 @@
               "прямокутні",
               "матова кераміка, матове МДФ"
             ],
-            "stock_quantity": 19
+            "stock_quantity": 16
           },
           {
             "url": "https://vetromebel.com/product/stilec-n-66-2-indigo-velyur",
@@ -9077,7 +9005,7 @@
               6,
               "індіго"
             ],
-            "stock_quantity": 0
+            "stock_quantity": 108
           },
           {
             "url": "https://vetromebel.com/product/keramicheskiy-stol-tml-870-ays-grey",
@@ -9119,7 +9047,7 @@
               "прямокутні",
               "матова кераміка, матове МДФ"
             ],
-            "stock_quantity": 18
+            "stock_quantity": 19
           },
           {
             "url": "https://vetromebel.com/product/sofa-rozkladna-alma-francuzkiy-siriy",
@@ -9162,7 +9090,7 @@
               "162*191",
               "прямі"
             ],
-            "stock_quantity": 44
+            "stock_quantity": 42
           },
           {
             "url": "https://vetromebel.com/product/zhurnalnyy-stol-cb-2-prozrachnyy-serebro",
@@ -9232,7 +9160,7 @@
               11,
               "сірий"
             ],
-            "stock_quantity": 17
+            "stock_quantity": 13
           },
           {
             "url": "https://vetromebel.com/product/konsol-cl-3-prozrachnyy-zoloto",
@@ -9340,7 +9268,7 @@
               "білий мармур",
               "круглі"
             ],
-            "stock_quantity": 25
+            "stock_quantity": 24
           },
           {
             "url": "https://vetromebel.com/product/zhurnalnyy-stol-cp-1-tonirovannyyserebro",
@@ -9375,7 +9303,7 @@
               "квадратні",
               80
             ],
-            "stock_quantity": 43
+            "stock_quantity": 40
           },
           {
             "url": "https://vetromebel.com/product/kofeynyy-stol-cp-2-tonirovannyy-serebro",
@@ -9411,7 +9339,7 @@
               "тонований",
               "квадратні"
             ],
-            "stock_quantity": 30
+            "stock_quantity": 27
           },
           {
             "url": "https://vetromebel.com/product/stol-mdfmatovoe-steklo-tml-765-belyy",
@@ -9453,7 +9381,7 @@
               "овальні",
               "матове МДФ"
             ],
-            "stock_quantity": 12
+            "stock_quantity": 10
           },
           {
             "url": "https://vetromebel.com/product/stol-mdfmatovoe-steklo-tml-770-belyy",
@@ -9495,7 +9423,7 @@
               "прямокутні",
               "матове МДФ"
             ],
-            "stock_quantity": 23
+            "stock_quantity": 22
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-65-siriy-chorniy",
@@ -9576,7 +9504,7 @@
               "поворотні",
               "прямокутні"
             ],
-            "stock_quantity": 22
+            "stock_quantity": 21
           },
           {
             "url": "https://vetromebel.com/product/keramicheskiy-stol-tml-815-belyy-mramor",
@@ -9733,7 +9661,7 @@
               5,
               "сірий"
             ],
-            "stock_quantity": 48
+            "stock_quantity": 46
           },
           {
             "url": "https://vetromebel.com/product/barniy-stilec-b-06-biliy",
@@ -9771,7 +9699,7 @@
               8,
               "білий"
             ],
-            "stock_quantity": 153
+            "stock_quantity": 151
           },
           {
             "url": "https://vetromebel.com/product/barniy-stilec-b-06-chorniy",
@@ -9886,7 +9814,7 @@
               6,
               "сірий"
             ],
-            "stock_quantity": 44
+            "stock_quantity": 28
           },
           {
             "url": "https://vetromebel.com/product/puf-riko-siriy-sriblo",
@@ -9917,7 +9845,7 @@
               8,
               "сірий"
             ],
-            "stock_quantity": 16
+            "stock_quantity": 14
           },
           {
             "url": "https://vetromebel.com/product/sofa-raskladnaya-ameli-platinovyy-serebro",
@@ -10041,7 +9969,7 @@
               "прямокутні",
               "матова кераміка, матове МДФ"
             ],
-            "stock_quantity": 47
+            "stock_quantity": 107
           },
           {
             "url": "https://vetromebel.com/product/keramicheskiy-stol-tm-87-gridzhio-latte",
@@ -10078,7 +10006,7 @@
               "прямокутні",
               "матова кераміка, матове МДФ"
             ],
-            "stock_quantity": 33
+            "stock_quantity": 62
           },
           {
             "url": "https://vetromebel.com/product/keramicheskiy-stol-tm-87-1-belyy-mramor",
@@ -10119,7 +10047,7 @@
               "прямокутні",
               "матова кераміка, матове МДФ"
             ],
-            "stock_quantity": 30
+            "stock_quantity": 66
           },
           {
             "url": "https://vetromebel.com/product/keramicheskiy-stol-tm-87-1-ays-grey",
@@ -10161,7 +10089,7 @@
               "прямокутні",
               "матова кераміка, матове МДФ"
             ],
-            "stock_quantity": 65
+            "stock_quantity": 60
           },
           {
             "url": "https://vetromebel.com/product/keramicheskiy-stol-tml-866-ays-grey",
@@ -10203,7 +10131,7 @@
               "овальні",
               "матова кераміка, матове МДФ"
             ],
-            "stock_quantity": 8
+            "stock_quantity": 9
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-62-siriy-chorniy",
@@ -10244,7 +10172,7 @@
               68,
               "з підлокітниками"
             ],
-            "stock_quantity": 220
+            "stock_quantity": 216
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-62-chorniy-chorniy",
@@ -10285,7 +10213,7 @@
               68,
               "з підлокітниками"
             ],
-            "stock_quantity": 123
+            "stock_quantity": 149
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-12-kapuchino-kapuchino",
@@ -10365,7 +10293,7 @@
               "макроволокно, пінополіуретан (ППУ)",
               "поворотні"
             ],
-            "stock_quantity": 17
+            "stock_quantity": 16
           },
           {
             "url": "https://vetromebel.com/product/povorotnoe-kreslo-kallisto-ayvori",
@@ -10437,7 +10365,7 @@
               148,
               68,
               "Vetro Mebel",
-              "потребує складання",
+              "не потребує складання",
               "бавовна",
               "пластик",
               64,
@@ -10528,7 +10456,7 @@
               7,
               "сірий"
             ],
-            "stock_quantity": 130
+            "stock_quantity": 111
           },
           {
             "url": "https://vetromebel.com/product/keramichniy-stil-tm-87-1-chorniy-oniks-chorniy",
@@ -10570,7 +10498,7 @@
               "прямокутні",
               "матова кераміка + матове МДФ"
             ],
-            "stock_quantity": 81
+            "stock_quantity": 77
           },
           {
             "url": "https://vetromebel.com/product/keramichniy-stil-ugo-tml-879-rebekka-grey-chorniy",
@@ -10612,7 +10540,7 @@
               "прямокутні",
               "глянцева кераміка"
             ],
-            "stock_quantity": 16
+            "stock_quantity": 17
           },
           {
             "url": "https://vetromebel.com/product/obedennyy-keramicheskiy-stol-tm-100-belyy-mramor-chernyy",
@@ -10646,7 +10574,7 @@
               "прямокутні",
               130
             ],
-            "stock_quantity": 166
+            "stock_quantity": 164
           },
           {
             "url": "https://vetromebel.com/product/stilec-m-45kapuchino-kapuchino",
@@ -10683,7 +10611,7 @@
               6,
               "капучино"
             ],
-            "stock_quantity": 274
+            "stock_quantity": 254
           },
           {
             "url": "https://vetromebel.com/product/stul-m-45-seryy-chernyy",
@@ -10721,7 +10649,7 @@
               6,
               "сірий"
             ],
-            "stock_quantity": 200
+            "stock_quantity": 156
           },
           {
             "url": "https://vetromebel.com/product/ctilec-n-41-kapuchino-kapuchino-velyur",
@@ -10759,7 +10687,7 @@
               50,
               39
             ],
-            "stock_quantity": 312
+            "stock_quantity": 276
           },
           {
             "url": "https://vetromebel.com/product/ctul-n-41-kapuchino-velyur-chernyy",
@@ -10793,7 +10721,7 @@
               50,
               39
             ],
-            "stock_quantity": 431
+            "stock_quantity": 423
           },
           {
             "url": "https://vetromebel.com/product/ctilec-n-41-svitlo-siriy-velyur-biliy",
@@ -10831,7 +10759,7 @@
               50,
               39
             ],
-            "stock_quantity": 252
+            "stock_quantity": 227
           },
           {
             "url": "https://vetromebel.com/product/ctilec-n-41-temno-siriy-siriy-velyur",
@@ -10869,7 +10797,7 @@
               50,
               39
             ],
-            "stock_quantity": 326
+            "stock_quantity": 290
           },
           {
             "url": "https://vetromebel.com/product/keramichniy-stil-tm-84-kasa-vayt-siriy",
@@ -10910,7 +10838,7 @@
               "прямокутні",
               "глянцева кераміка, глянцеве МДФ"
             ],
-            "stock_quantity": 48
+            "stock_quantity": 47
           },
           {
             "url": "https://vetromebel.com/product/keramichniy-stil-tm-89-kasa-vayt-chorniy",
@@ -10994,7 +10922,7 @@
               "прямокутні",
               "матова кераміка"
             ],
-            "stock_quantity": 11
+            "stock_quantity": 10
           },
           {
             "url": "https://vetromebel.com/product/obidniy-keramichniy-stil-tm-100-kalakatta-grey-chorniy",
@@ -11028,7 +10956,7 @@
               "прямокутні",
               130
             ],
-            "stock_quantity": 152
+            "stock_quantity": 151
           },
           {
             "url": "https://vetromebel.com/product/keramichniy-stil-teo-tml-895-byanko-kararra-chorniy",
@@ -11069,7 +10997,7 @@
               "боковий",
               "прямокутні"
             ],
-            "stock_quantity": 25
+            "stock_quantity": 21
           },
           {
             "url": "https://vetromebel.com/product/keramichniy-stil-urbano-tml-896-kalakatta-kristal-chorniy",
@@ -11110,7 +11038,7 @@
               "боковий",
               "прямокутні"
             ],
-            "stock_quantity": 20
+            "stock_quantity": 18
           },
           {
             "url": "https://vetromebel.com/product/keramichniy-stil-urbano-tml-896-imperial-grafit-chorniy",
@@ -11192,7 +11120,7 @@
               "боковий",
               "прямокутні"
             ],
-            "stock_quantity": 26
+            "stock_quantity": 19
           },
           {
             "url": "https://vetromebel.com/product/keramichniy-stil-massimo-tml-950-rebekka-grey-chorniy",
@@ -11233,7 +11161,7 @@
               "боковий",
               "прямокутні"
             ],
-            "stock_quantity": 27
+            "stock_quantity": 21
           },
           {
             "url": "https://vetromebel.com/product/keramichniy-stil-alonco-tml-955-krema-delikato-chorniy",
@@ -11315,7 +11243,7 @@
               "боковий",
               "прямокутні"
             ],
-            "stock_quantity": 12
+            "stock_quantity": 9
           },
           {
             "url": "https://vetromebel.com/product/keramicheskiy-stol-dino-tml-960-kalakatta-kristall-chernyy",
@@ -11542,7 +11470,7 @@
               "білий пісок",
               "з підлокітниками"
             ],
-            "stock_quantity": 0
+            "stock_quantity": 1
           },
           {
             "url": "https://vetromebel.com/product/keramichniy-stil-tm-84-kalakatta-marmur-siriy",
@@ -11584,7 +11512,7 @@
               "прямокутні",
               "глянцева кераміка, глянцеве МДФ"
             ],
-            "stock_quantity": 40
+            "stock_quantity": 34
           },
           {
             "url": "https://vetromebel.com/product/konsol-teo-b-yanko-kararra-chorniy",
@@ -11653,7 +11581,7 @@
               "натуральний",
               43
             ],
-            "stock_quantity": 104
+            "stock_quantity": 100
           },
           {
             "url": "https://vetromebel.com/product/ctilec-n-44-svitlo-siriy-chorniy",
@@ -11691,7 +11619,7 @@
               "світло-сірий",
               43
             ],
-            "stock_quantity": 9
+            "stock_quantity": 5
           },
           {
             "url": "https://vetromebel.com/product/ctilec-n-44-terakotoviy-chorniy",
@@ -11727,7 +11655,7 @@
               "теракотовий",
               43
             ],
-            "stock_quantity": 102
+            "stock_quantity": 103
           },
           {
             "url": "https://vetromebel.com/product/ctilec-n-44-kapuchino-kapuchino",
@@ -11802,7 +11730,7 @@
               "сірий",
               43
             ],
-            "stock_quantity": 12
+            "stock_quantity": 20
           },
           {
             "url": "https://vetromebel.com/product/ctilec-n-44-chorniy-chorniy",
@@ -11877,7 +11805,7 @@
               7,
               "капучино"
             ],
-            "stock_quantity": 79
+            "stock_quantity": 75
           },
           {
             "url": "https://vetromebel.com/product/stil-obidniy-t-325-kasa-vayt-biliy",
@@ -11909,7 +11837,7 @@
               "нерозкладні",
               "круглі"
             ],
-            "stock_quantity": 24
+            "stock_quantity": 23
           },
           {
             "url": "https://vetromebel.com/product/stil-obidniy-t-325-ays-grey-chorniy-2",
@@ -11974,7 +11902,7 @@
               "нерозкладні",
               "круглі"
             ],
-            "stock_quantity": 3
+            "stock_quantity": 0
           },
           {
             "url": "https://vetromebel.com/product/sofa-rozkladna-marko-musson",
@@ -12017,7 +11945,7 @@
               "183*110",
               "прямі"
             ],
-            "stock_quantity": 42
+            "stock_quantity": 41
           },
           {
             "url": "https://vetromebel.com/product/sofa-rozkladna-santino-francuzkiy-siriy",
@@ -12290,7 +12218,7 @@
               56,
               45
             ],
-            "stock_quantity": 42
+            "stock_quantity": 41
           },
           {
             "url": "https://vetromebel.com/product/stilec-n-49-kapuchino-2",
@@ -12477,7 +12405,7 @@
               8,
               "гірчичний"
             ],
-            "stock_quantity": 26
+            "stock_quantity": 24
           },
           {
             "url": "https://vetromebel.com/product/napivbarniy-stilec-b-150-terakotoviy-chorniy",
@@ -12514,7 +12442,7 @@
               7.6,
               "теракотовий"
             ],
-            "stock_quantity": 44
+            "stock_quantity": 43
           },
           {
             "url": "https://vetromebel.com/product/napivbarniy-stilec-b-150-siriy-chorniy",
@@ -12750,7 +12678,7 @@
               "айворі",
               55.5
             ],
-            "stock_quantity": 142
+            "stock_quantity": 138
           },
           {
             "url": "https://vetromebel.com/product/ctilec-m-70-mokko-chorniy",
@@ -13211,7 +13139,7 @@
               "айворі",
               60.5
             ],
-            "stock_quantity": 22
+            "stock_quantity": 0
           },
           {
             "url": "https://vetromebel.com/product/ctilec-m-75-kapuchino-chorniy",
@@ -13501,7 +13429,7 @@
               "боковий",
               "прямокутні"
             ],
-            "stock_quantity": 58
+            "stock_quantity": 68
           },
           {
             "url": "https://vetromebel.com/product/keramichniy-stil-tm-80-kasa-vayt-siriy",
@@ -13542,7 +13470,7 @@
               "боковий",
               "прямокутні"
             ],
-            "stock_quantity": 68
+            "stock_quantity": 84
           },
           {
             "url": "https://vetromebel.com/product/keramichniy-stil-tm-80-chorniy-oniks-chorniy",
@@ -13583,7 +13511,7 @@
               "боковий",
               "прямокутні"
             ],
-            "stock_quantity": 27
+            "stock_quantity": 85
           },
           {
             "url": "https://vetromebel.com/product/obidniy-keramichniy-stil-tm-100-rebekka-grey-chorniy",
@@ -13616,7 +13544,7 @@
               "прямокутні",
               130
             ],
-            "stock_quantity": 135
+            "stock_quantity": 133
           },
           {
             "url": "https://vetromebel.com/product/obidniy-keramichniy-stil-tm-100-olimpo-vayt-chorniy",
@@ -13648,7 +13576,7 @@
               "нерозкладні",
               130
             ],
-            "stock_quantity": 187
+            "stock_quantity": 188
           },
           {
             "url": "https://vetromebel.com/product/komplekt-zhurnalnih-stoliv-ct-30-beatris-rebekka-grey-chorniy",
@@ -13679,7 +13607,7 @@
               "ребекка грей",
               "круглі"
             ],
-            "stock_quantity": 77
+            "stock_quantity": 74
           },
           {
             "url": "https://vetromebel.com/product/komplekt-zhurnalnih-stoliv-ct-31-beatris-vayt-klaud-chorniy",
@@ -13710,7 +13638,7 @@
               "вайт клауд",
               "круглі"
             ],
-            "stock_quantity": 69
+            "stock_quantity": 67
           },
           {
             "url": "https://vetromebel.com/product/komplekt-zhurnalnih-stoliv-ct-35-lorenza-kasa-vayt-chorniy",
@@ -13740,7 +13668,7 @@
               "каса вайт",
               "круглі"
             ],
-            "stock_quantity": 28
+            "stock_quantity": 24
           },
           {
             "url": "https://vetromebel.com/product/komplekt-zhurnalnih-stoliv-ct-35-lorenza-petra-grey-chorniy",
@@ -13770,7 +13698,7 @@
               "петра грей",
               "круглі"
             ],
-            "stock_quantity": 29
+            "stock_quantity": 27
           },
           {
             "url": "https://vetromebel.com/product/obidniy-keramichniy-stil-tm-110-biliy-marmur-biliy",
@@ -13803,7 +13731,7 @@
               "прямокутні",
               110
             ],
-            "stock_quantity": 17
+            "stock_quantity": 15
           },
           {
             "url": "https://vetromebel.com/product/obidniy-keramichniy-stil-tm-110-petra-grey-siriy",
@@ -13836,7 +13764,7 @@
               "прямокутні",
               110
             ],
-            "stock_quantity": 36
+            "stock_quantity": 30
           },
           {
             "url": "https://vetromebel.com/product/obidniy-keramichniy-stil-tm-110-rebekka-grey-siriy",
@@ -13869,7 +13797,7 @@
               "прямокутні",
               110
             ],
-            "stock_quantity": 24
+            "stock_quantity": 18
           },
           {
             "url": "https://vetromebel.com/product/stilec-povorotniy-r-105-perlinniy-chorniy",
@@ -13903,7 +13831,7 @@
               "перлинний",
               "поворотні,з підлокітниками"
             ],
-            "stock_quantity": 37
+            "stock_quantity": 29
           },
           {
             "url": "https://vetromebel.com/product/stilec-povorotniy-r-105-popilniy-chorniy",
@@ -13937,7 +13865,7 @@
               "попільний",
               "поворотні,з підлокітниками"
             ],
-            "stock_quantity": 1
+            "stock_quantity": 0
           },
           {
             "url": "https://vetromebel.com/product/stilec-povorotniy-r-110-makiato-chorniy",
@@ -13971,7 +13899,7 @@
               "макіато",
               "поворотні,з підлокітниками"
             ],
-            "stock_quantity": 110
+            "stock_quantity": 106
           },
           {
             "url": "https://vetromebel.com/product/stilec-povorotniy-r-110-smazheniy-migdal-chorniy",
@@ -14004,7 +13932,7 @@
               "смажений мигдаль",
               "поворотні,з підлокітниками"
             ],
-            "stock_quantity": 81
+            "stock_quantity": 67
           },
           {
             "url": "https://vetromebel.com/product/stilec-povorotniy-r-145-girchichniy-chorniy",
@@ -14038,7 +13966,7 @@
               "гірчичний",
               "поворотні,з підлокітниками"
             ],
-            "stock_quantity": 87
+            "stock_quantity": 82
           },
           {
             "url": "https://vetromebel.com/product/stilec-povorotniy-r-145-kapuchino-chorniy",
@@ -14106,7 +14034,7 @@
               "сірий",
               "поворотні,з підлокітниками"
             ],
-            "stock_quantity": 177
+            "stock_quantity": 171
           },
           {
             "url": "https://vetromebel.com/product/stilec-povorotniy-r-150-blu-grey-chorniy",
@@ -14212,7 +14140,7 @@
               6,
               "коричневий + чорний"
             ],
-            "stock_quantity": 2
+            "stock_quantity": 79
           },
           {
             "url": "https://vetromebel.com/product/stilec-n-66-2-bezheviy-kapuchino",
@@ -14250,7 +14178,7 @@
               6,
               "бежевий + капучино"
             ],
-            "stock_quantity": 0
+            "stock_quantity": 204
           },
           {
             "url": "https://vetromebel.com/product/stilec-s-121-kapuchino-velyur-chorniy",
@@ -14314,7 +14242,7 @@
               "автоматичний",
               "прямокутні"
             ],
-            "stock_quantity": 15
+            "stock_quantity": 11
           },
           {
             "url": "https://vetromebel.com/product/keramichniy-stil-ameliya-tml-970-kasa-gold-chorniy",
@@ -14348,7 +14276,7 @@
               "автоматичний",
               "прямокутні"
             ],
-            "stock_quantity": 2
+            "stock_quantity": 0
           }
         ]
       },
